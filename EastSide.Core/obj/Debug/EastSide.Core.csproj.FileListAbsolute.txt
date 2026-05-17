@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\bin\Debug\EastSide.Core.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\bin\Debug\Codexus.Cipher.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\bin\Debug\Codexus.Development.SDK.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.0FDABDC3.Up2Date
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\EastSide.Core.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\refint\EastSide.Core.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.Core\obj\Debug\ref\EastSide.Core.dll
