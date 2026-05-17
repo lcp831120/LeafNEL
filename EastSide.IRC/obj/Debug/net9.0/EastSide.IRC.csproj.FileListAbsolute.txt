@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\bin\Debug\net9.0\EastSide.IRC.deps.json
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\bin\Debug\net9.0\EastSide.IRC.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\bin\Debug\net9.0\EastSide.IRC.pdb
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\bin\Debug\net9.0\Codexus.Cipher.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\bin\Debug\net9.0\Codexus.Development.SDK.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\bin\Debug\net9.0\EastSide.Core.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\EastSide.IRC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\EastSide.IRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\EastSide.IRC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\EastSide.B39DB5D4.Up2Date
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\EastSide.IRC.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\refint\EastSide.IRC.dll
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\EastSide.IRC.pdb
+C:\Users\Administrator\Desktop\EastSideNEL-master2.0\EastSide.IRC\obj\Debug\net9.0\ref\EastSide.IRC.dll

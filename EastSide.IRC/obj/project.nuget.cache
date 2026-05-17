@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7mB/130TD8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\EastSideNEL-master2.0\\EastSide.IRC\\EastSide.IRC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dotnetty.buffers\\0.7.6\\dotnetty.buffers.0.7.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dotnetty.codecs\\0.7.6\\dotnetty.codecs.0.7.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dotnetty.common\\0.7.6\\dotnetty.common.0.7.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dotnetty.handlers\\0.7.6\\dotnetty.handlers.0.7.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\dotnetty.transport\\0.7.6\\dotnetty.transport.0.7.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sharpcompress\\0.38.0\\sharpcompress.0.38.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
